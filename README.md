@@ -20,3 +20,5 @@ The following Regression Analysis Techniques have been implemented:
 Python Notebook -> <b> MTH416.ipynb </b>
 
 Project Report -> <b> project report.pdf </b>
+
+<b> Plots </b> and <b> Tables </b> present in respective folders.
