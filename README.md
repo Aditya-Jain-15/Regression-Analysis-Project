@@ -3,7 +3,7 @@
 This is a project done as a part of the course MTH416A (Regression Analysis) at IITK.
 
 Link to dataset used : https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data <br>
-We use a subset (in terms of number of columns) of this dataset to do our analysis.
+We use a subset (in terms of number of columns) of this dataset to do our analysis -> house_price.csv
 
 The following Regression Analysis Techniques have been implemented:
 
@@ -16,3 +16,7 @@ The following Regression Analysis Techniques have been implemented:
   7) Handling Categorical variables
   8) Multi-collinearity check
   9) Variable Selection using Backward Elimination
+
+Python Notebook -> MTH416.ipynb
+
+Project Report -> project report.pdf
