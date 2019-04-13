@@ -2,7 +2,7 @@
 
 This is a project done as a part of the course MTH416A (Regression Analysis) at IITK.
 
-Link to dataset used : https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
+Link to dataset used : https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data <br>
 We use a subset (in terms of number of columns) of this dataset to do our analysis.
 
 The following Regression Analysis Techniques have been implemented:
